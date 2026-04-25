@@ -96,7 +96,7 @@ primarily optimizing for Google's internal needs.
 [vim]: https://google.github.io/styleguide/vimscriptguide.xml
 [emacs]: https://raw.githubusercontent.com/google/styleguide/gh-pages/google-c-style.el
 [xml]: https://google.github.io/styleguide/xmlstyle.html
-[dart]: https://www.dartlang.org/guides/language/effective-dart
+[dart]: https://dart.dev/effective-dart
 [ccl]: https://creativecommons.org/licenses/by/3.0/
 [SCM]: https://en.wikipedia.org/wiki/Source_control_management
 [VCS]: https://en.wikipedia.org/wiki/Version_control_system
